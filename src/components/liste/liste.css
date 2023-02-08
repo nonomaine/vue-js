@@ -1,0 +1,9 @@
+.liste{
+    padding-left: 20px;
+}
+
+li{
+   
+    color: red;
+    list-style-type: none;
+}
